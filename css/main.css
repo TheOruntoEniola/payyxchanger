@@ -13,6 +13,23 @@ a {
 #contact {
   z-index: 3;
 }
+
+.v18_111:hover{
+  cursor: pointer;
+}
+
+.v18_114:hover{
+  cursor: pointer;
+}
+
+.v18_98{
+  cursor: pointer;
+}
+
+.v18_99{
+  cursor: pointer;
+}
+
 @media (min-width: 1500px) {
   /* BODY */
   * {
@@ -448,7 +465,7 @@ a {
   .v12_131 {
     width: 170px;
     height: 349px;
-    background: url("../images/v12_131.png");
+    background: url("../images/Screenshot_20220105-195310_WhatsApp.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -480,7 +497,7 @@ a {
   .v12_132 {
     width: 166px;
     height: 344px;
-    background: url("../images/v12_132.png");
+    background: url("../images/Screenshot_20220105-195324_WhatsApp.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -512,7 +529,7 @@ a {
   .v12_133 {
     width: 166px;
     height: 344px;
-    background: url("../images/v12_133.png");
+    background: url("../images/Screenshot_20220105-195444_WhatsApp.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -544,7 +561,7 @@ a {
   .v12_134 {
     width: 170px;
     height: 349px;
-    background: url("../images/v12_134.png");
+    background: url("../images/Screenshot_20220105-195455_WhatsApp.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -733,12 +750,13 @@ a {
     
 }
 
-@media (max-width: 420px) {
+@media screen and (max-width: 1024px) {
   * {
     box-sizing: border-box;
   }
   body {
     font-size: 14px;
+    box-sizing: border-box;
   }
   
   .v7_21 {
@@ -1163,7 +1181,7 @@ a {
     display: none;
     width: 170px;
     height: 349px;
-    background: url("../images/v12_131.png");
+    background: url("../images/Screenshot_20220105-195310_WhatsApp.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1195,7 +1213,7 @@ a {
   .v12_132 {
     width: 185px;
     height: 388px;
-    background: url("../images/v12_132.png");
+    background: url("../images/Screenshot_20220105-195324_WhatsApp.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1229,7 +1247,7 @@ a {
     display: none;
     width: 166px;
     height: 344px;
-    background: url("../images/v12_133.png");
+    background: url("../images/Screenshot_20220105-195444_WhatsApp.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1263,7 +1281,7 @@ a {
     display: none;
     width: 170px;
     height: 349px;
-    background: url("../images/v12_134.png");
+    background: url("../images/Screenshot_20220105-195455_WhatsApp.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
